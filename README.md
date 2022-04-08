@@ -8,7 +8,7 @@ PhotoView enables images to become able to zoom and pan with user gestures such 
 
 It also can show any widget instead of an image, such as Container, Text or a SVG. 
 
-Even though being super simple to use, PhotoView is extremely customizable though its options and the controllers. 
+Even though being super simple to use, PhotoView is extremely customizable through its options and the controllers. 
 
 
 ## Installation
